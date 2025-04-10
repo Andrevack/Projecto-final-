@@ -92,6 +92,16 @@ No que diz respeito ao gênero, observou-se que o público feminino realiza a ma
 
 A cidade de Benguela é responsável pela maior parte das vendas, o que demonstra uma forte presença da marca nessa localidade. No entanto, é importante fortalecer a atuação em outras cidades para evitar dependência excessiva de um único mercado. Investimentos em publicidade local, promoções regionais ou ampliação dos canais de venda podem ajudar a equilibrar os resultados entre as regiões e aumentar o alcance da empresa.
 
+Autoavaliação
+
+O objetivo principal deste trabalho foi realizar um estudo exploratório com base em dados de vendas da loja fictícia ABC, a fim de identificar padrões de comportamento dos clientes e extrair informações úteis para apoiar decisões estratégicas. Através da construção de um pipeline de dados no ambiente Databricks, utilizando arquivos Excel como fonte, acredito que os objetivos foram plenamente atingidos.
+
+Fui capaz de realizar todas as etapas do pipeline de ETL: extração dos dados, transformações necessárias (como junções e limpeza), carga para o ambiente de análise, e posteriormente a realização de consultas que responderam às principais perguntas do negócio. Questões como qual é o cliente que mais compra, qual o produto mais vendido, qual a faixa etária predominante, entre outras, foram respondidas com clareza e fundamentadas em dados.
+
+Além disso, consegui aplicar boas práticas de documentação, criando um catálogo de dados e mantendo um repositório público no GitHub com os códigos utilizados. Isso demonstra não só o domínio técnico, mas também um cuidado com a transparência e organização do trabalho.
+
+Ainda há pontos que podem ser melhorados, como a visualização dos dados e a construção de dashboards interativos. No entanto, dentro dos objetivos definidos para este projeto, avaliaria meu desempenho como positivo, uma vez que consegui cumprir o que foi proposto, superar desafios técnicos e apresentar resultados claros e bem fundamentados.
+
 
 - 
 
